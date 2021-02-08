@@ -91,7 +91,6 @@ body
 .vcard-footer
 {
     margin-top: 20px;
-    text-align: center;
 }
   
 .footer-icon 
@@ -101,4 +100,10 @@ body
     margin-right: 50px;
     text-align: center;
 
+}
+
+.app
+{
+    text-align: center;
+    color:#333 ;
 }
